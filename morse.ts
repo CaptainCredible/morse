@@ -6,6 +6,7 @@ let morseTimer = 0;
 let beepIsOn = false;
 let blinkIsOn = false;
 
+
 //% weight=100 color=#01bc11 icon=""
 //% groups="['Input', 'Output']"
 //%blockId="Morse" block="Morse"
